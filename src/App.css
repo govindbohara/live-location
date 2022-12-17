@@ -1,0 +1,25 @@
+.App {
+	text-align: center;
+	background-color: #282c34;
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #fff;
+}
+.location-text {
+	font-size: 22px;
+}
+
+.location {
+	font-size: 28px;
+	font-weight: bold;
+}
+.loading {
+	font-size: 25px;
+	font-weight: bold;
+}
+.error {
+	font-size: 25px;
+	font-weight: bold;
+}
